@@ -1,0 +1,17 @@
+
+html, div.App {
+    background-color: lightblue;
+}
+.breadcrumb-item.active {
+    color: #dc3545;
+}
+h4 {
+   color:#343a40;
+    text-align: center;
+    margin: 10px;
+}
+#inputEmail3.form-control{
+    color: #495057;
+    font-size: 18px;
+    font-weight: 200;   
+}
